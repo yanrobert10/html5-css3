@@ -1,0 +1,33 @@
+
+/*
+:first-child - Primeiro filho
+
+:nth-last-of-type(2) - Pegar elemento do mesmo tipo
+
+:nth-child(2) - Pegar elementos filhos
+
+:nth-child(odd ou even) - Pegar todos elementos pares ou todos elementos impares
+
+* Ações de usuario
+:hover - ao passar o mouse em cima
+
+input:focus - quando estiver em foco
+
+* atributos
+:disabled - desabilitado
+
+:required - querer
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes
+
+* Pseudo-element
+
+::before - antes do conteudo do elemento
+
+::after - depois do conteudo do elemento
+
+precisa de usar o content se nao, nao funciona
+
+::first-line - primeira linha
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements
