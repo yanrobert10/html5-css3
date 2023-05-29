@@ -1,0 +1,16 @@
+button {
+    display: flex ;
+    align-items: center;
+    gap: .4rem;
+    line-height: 0;
+    font-weight: bold;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+button img {
+    width: 2rem;
+    height: 2rem;
+    
+    
+}
